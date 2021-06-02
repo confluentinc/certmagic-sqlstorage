@@ -1,4 +1,4 @@
-module github.com/travisjeffery/certmagic-sqlstorage
+module github.com/confluentinc/certmagic-sqlstorage
 
 go 1.16
 
